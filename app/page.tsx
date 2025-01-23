@@ -3,13 +3,17 @@
 export default function Home() {
   return (
     
-      <><main className="">
+      <main className="flex flex-col items-center px-4">
+      {/* <Intro />
+      <SectionDivider />
+      <About />
+      <Projects />
+      <Skills />
+      <Experience />
+      <Contact /> */}
 
     </main>
-    <footer className="">
 
-
-      </footer></>
     
   );
 }
